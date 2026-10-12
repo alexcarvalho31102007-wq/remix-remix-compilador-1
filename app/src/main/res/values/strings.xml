@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Compilador</string>
+    <string name="app_tagline">Compilação ágil em nuvem via GitHub Actions</string>
+    <string name="select_project_zip">Selecionar Projeto ZIP</string>
+    <string name="compile_action">Iniciar Compilação</string>
+    <string name="install_app">Instalar Aplicativo (.apk)</string>
+    <string name="copy_all_logs">Copiar Todos os Logs</string>
+    <string name="logs_copied">Logs copiados com sucesso!</string>
+    <string name="github_settings">Configurações do GitHub</string>
+    <string name="github_token_hint">GitHub Personal Access Token (PAT)</string>
+    <string name="github_repo_hint">Repositório (ex: usuario/meu-app)</string>
+    <string name="build_success_title">Compilação Concluída!</string>
+    <string name="build_failed_title">Falha na Compilação</string>
+    <string name="build_in_progress_title">Compilando Projeto</string>
+    <string name="empty_prompt_title">Nenhum projeto selecionado</string>
+    <string name="empty_prompt_subtitle">Selecione o arquivo .zip com o código-fonte para compilar seu app</string>
+</resources>

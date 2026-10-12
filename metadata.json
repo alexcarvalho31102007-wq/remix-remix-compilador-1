@@ -1,0 +1,8 @@
+{
+  "name": "Compilador",
+  "description": "Compilador de código-fonte para aplicativos Android via GitHub Actions com fluxo de etapas e instalação direta de APK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
